@@ -1,6 +1,7 @@
 # Prerequisites
 #########
 # Creating a tag v3.5.4 for a bug fix
+# Creating a semantic tag for a minor release v3.6.1
 - JDK 21 
 - Maven 3.9 
 - MySQL 8
